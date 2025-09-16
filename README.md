@@ -4,10 +4,10 @@
 ## AIM:
 To write a program to predict the price of cars using a multiple linear regression model and evaluate the model performance using cross-validation.
 
-### Equipments Required:
+## Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
-### Algorithm
+## Algorithm
 1.Import Libraries: Bring in the necessary libraries.
 
 2.Load the Dataset: Load the dataset into your environment.
@@ -28,7 +28,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 
 10.Make Predictions & Compare: Predict outcomes and compare them to the actual values.
 
-### Program:
+## Program:
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
 Developed by: Rakesh K S
 RegisterNumber: 212224040264
@@ -65,8 +65,8 @@ plt.title("Actual vs Predicted Prices")
 plt.grid(True)
 plt.show()
 ```
-### Output
+## Output
 <img width="986" height="905" alt="image" src="https://github.com/user-attachments/assets/ac2555bc-7651-4c70-b95c-37598542d3bd" />
 
-### Result:
+## Result:
 Thus, the program to implement the multiple linear regression model with cross-validation for predicting car prices is written and verified using Python programming.
